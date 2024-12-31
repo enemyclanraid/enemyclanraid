@@ -7,7 +7,7 @@
 </head>
 <body>
     <center>
-        <h1>Привет! 👋</h1>
+        <h1>MJT corp</h1>
     </center>
     <div align="center">
         <img src="https://i.gifer.com/T2jh.gif" alt="GIF-анимация" />
