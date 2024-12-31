@@ -1,4 +1,14 @@
 ## Hi there 👋
 
-
-<iframe src="https://gifer.com/embed/T2jh" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GIF Example</title>
+</head>
+<body>
+    <h1>Вот ваша GIF-анимация:</h1>
+    <img src="https://i.gifer.com/T2jh.gif" alt="GIF-анимация" />
+</body>
+</html>
