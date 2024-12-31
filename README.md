@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -8,7 +6,7 @@
    
 </head>
 <body>
-    <h1>Бикуб:</h1>
+    <h1>## Hi there 👋</h1>
     <img src="https://i.gifer.com/T2jh.gif" alt="GIF-анимация" />
 </body>
 </html>
